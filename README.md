@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a React Piano Project that helps you build a piano!.
+This is a React project that helps you build a piano!.
 
 The instructions are shown when you run the app. (also in the Navbar.jsx file)
 
@@ -13,7 +13,8 @@ The instructions are shown when you run the app. (also in the Navbar.jsx file)
 1. Clone the repo like this:
 
 ```bash
-git clone
+cd projects
+git clone https://github.com/Beam-Institute/react-piano-project.git
 ```
 
 2. Install dependencies:
