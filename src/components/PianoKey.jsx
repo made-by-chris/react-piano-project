@@ -10,7 +10,7 @@ const PianoKey = (props) => {
 
   return (
     <button
-      className="p-4 m-2 bg-white text-black shadow-lg"
+      className="p-4 m-2 h-40 bg-white text-black shadow-lg"
       onClick={() => {}}
     >
       {note}
