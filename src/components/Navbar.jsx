@@ -9,6 +9,10 @@ const Navbar = () => {
         </p>
         <ol className="font-thin">
           <li className="list-decimal">
+            it should play a sound when we click on the key 🤔, let's check the{" "}
+            <code>onClick</code> code in the <code>PianoKey.jsx</code> component
+          </li>
+          <li className="list-decimal">
             {" "}
             our piano needs more than one key 🤔, let's use <code>
               .map
@@ -16,8 +20,9 @@ const Navbar = () => {
             somehow in <code>Piano.jsx</code>
           </li>
           <li className="list-decimal">
-            it should play a sound when we click on the key 🤔, let's check the{" "}
-            <code>onClick</code> code in the <code>PianoKey.jsx</code> component
+            We should add more notes to the keyboard! google "piano notes" and
+            add more notes to the <code>notes</code> array in{" "}
+            <code>Piano.jsx</code>
           </li>
           <li className="list-decimal">
             <span className="font-400">EXTRA</span>: it should play a sound when
