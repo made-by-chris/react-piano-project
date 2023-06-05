@@ -14,7 +14,7 @@ The instructions are shown when you run the app. (also in the Navbar.jsx file)
 
 ```bash
 cd projects
-git clone https://github.com/Beam-Institute/react-piano-project.git
+git clone [https://github.com/Beam-Institute/react-piano-project.git](https://github.com/made-by-chris/react-piano-project.git)
 ```
 
 2. Install dependencies:
