@@ -20,10 +20,19 @@ git clone https://github.com/Beam-Institute/react-piano-project.git
 2. Install dependencies:
 
 ```bash
+cd react-piano-project
 npm install
 ```
 
-3. Run the app:
+3. Open in VSCode:
+
+```bash
+code .
+```
+
+(to add "code" command to your terminal path, read this [link](https://code.visualstudio.com/docs/setup/mac#:~:text=Drag%20Visual%20Studio%20Code.app,choosing%20Options%2C%20Keep%20in%20Dock.))
+
+4. Run the app:
 
 ```bash
 npm run dev
